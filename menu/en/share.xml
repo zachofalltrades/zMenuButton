@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>share</type>
+    <icon>gmail.png</icon>
+    <title>Share with Gmail</title>
+    <link>https://mail.google.com/mail/?ui=2&amp;view=cm&amp;fs=1&amp;tf=1&amp;su=%title&amp;body=%text+%url</link>
+    <description>Share a link and selected text with Gmail</description>
+  </item>
+  <item>
+    <type>share</type>
+    <icon>linkedin.png</icon>
+    <title>Share on LinkedIn</title>
+    <link>http://linkedin.com/shareArticle?mini=true&amp;url=%shorturl&amp;title=%title&amp;summary=%text</link>
+    <description>Share a link and selected text on LinkedIn</description>
+  </item>
+  <item>
+    <type>share</type>
+    <icon>google_plus.png</icon>
+    <title>Share on Google+</title>
+    <link>https://plus.google.com/share?url=%url</link>
+    <description>Share a link on Google+</description>
+  </item>
+  <item>
+    <type>share</type>
+    <icon>facebook.png</icon>
+    <title>Share on facebook</title>
+    <link>http://www.facebook.com/sharer.php?u=%url&amp;t=%title</link>
+    <description>Share a link on facebook</description>
+  </item>
+  <item>
+    <type>share</type>
+    <icon>twitter.png</icon>
+    <title>Share on Twitter</title>
+    <link>http://twitter.com/share?url=%shorturl&amp;text=%text</link>
+    <description>Share a link and selected text on Twitter</description>
+  </item>
+  <item>
+    <type>share</type>
+    <icon>blogger.png</icon>
+    <title>Blog This!</title>
+    <link>http://www.blogger.com/blog_this.pyra?t=%text&amp;u=%url&amp;n=%title</link>
+    <description>Share a link and selected text on Blogger</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

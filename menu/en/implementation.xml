@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Accessibility (a11y)</title>
+    <link>http://code.google.com/chrome/extensions/a11y.html</link>
+    <description>Make your extension accessible to people with disabilities.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Background Pages</title>
+    <link>http://code.google.com/chrome/extensions/background_pages.html</link>
+    <description>Put all the common code for your extension in a single place.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Content Scripts</title>
+    <link>http://code.google.com/chrome/extensions/content_scripts.html</link>
+    <description>Run JavaScript code in the context of web pages.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Cross-Origin XHR</title>
+    <link>http://code.google.com/chrome/extensions/xhr.html</link>
+    <description>Use XMLHttpRequest to send and receive data from remote servers.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Internationalization (i18n)</title>
+    <link>http://code.google.com/chrome/extensions/i18n.html</link>
+    <description>Deal with language and locale.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Message Passing</title>
+    <link>http://code.google.com/chrome/extensions/messaging.html</link>
+    <description>Communicate from a content script to its parent extension, or vice versa.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Optional Permissions</title>
+    <link>http://code.google.com/chrome/extensions/permissions.html</link>
+    <description>Modify your extension's permissions.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>NPAPI Plugins</title>
+    <link>http://code.google.com/chrome/extensions/npapi.html</link>
+    <description>Load native binary code.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>guide.xml</link>
+  </item>
+</menu>

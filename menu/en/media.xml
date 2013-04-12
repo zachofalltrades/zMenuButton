@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>blogger.png</icon>
+    <title>Blogger</title>
+    <link>http://www.blogger.com</link>
+    <description>Your personal blog online - quickly, easily and free</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>panoramio.png</icon>
+    <title>Panoramio</title>
+    <link>http://www.panoramio.com/</link>
+    <description>Photo from around the world at your fingertips</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>picasa.png</icon>
+    <title>Picasa</title>
+    <link>http://picasa.google.ru</link>
+    <description>Management, editing and share of your photo in the Web</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>reader.png</icon>
+    <title>Google Reader</title>
+    <link>http://www.google.ru/reader/</link>
+    <description>Merge all your news and blogs in one place</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>sketchup.png</icon>
+    <title>SketchUp</title>
+    <link>http://sketchup.google.com</link>
+    <description>Create 3D-models quickly and easily</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>youtube.png</icon>
+    <title>YouTube</title>
+    <link>http://ru.youtube.com/</link>
+    <description>Watch the video, post for yourself and send to your friends</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

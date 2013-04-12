@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Getting Started (Hello, World!)</title>
+    <link>http://developer.chrome.com/extensions/getstarted.html</link>
+    <description>This tutorial walks you through creating a simple extension.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Debugging</title>
+    <link>http://developer.chrome.com/extensions/tut_debugging.html</link>
+    <description>This tutorial introduces you to using Google Chrome's built-in Developer Tools to interactively debug an extension.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Google Analytics</title>
+    <link>http://developer.chrome.com/extensions/tut_analytics.html</link>
+    <description>This tutorial demonstrates using Google Analytics to track the usage of your extension.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>OAuth</title>
+    <link>http://developer.chrome.com/extensions/tut_oauth.html</link>
+    <description>OAuth is an open protocol that aims to standardize the way desktop and web applications access a user's private data.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>guide.xml</link>
+  </item>
+</menu>

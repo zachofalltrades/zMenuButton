@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <header>
+    <icon>google.png</icon>
+    <title>Google Services</title>
+    <link>http://menubutton.la2host.ru/</link>
+    <description>Google services under one single button</description>
+    <autor>Vadim Bogaiskov</autor>
+  </header>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Search</title>
+    <link>search.xml</link>
+    <description>Search with Google</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Social</title>
+    <link>social.xml</link>
+    <description>Google tools for communication</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Home and Office</title>
+    <link>office.xml</link>
+    <description>Google tools for work</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Media</title>
+    <link>media.xml</link>
+    <description>Google tools for entertainment</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>feedburner.png</icon>
+    <title>News from ХРОМ.РФ</title>
+    <link>news.xml</link>
+    <description>News from ХРОМ.РФ and WeboSapiens.ru (Russian only)</description>
+  </item>
+  <item>
+    <type>search</type>
+    <title>Search on Google</title>
+    <link>007730902333140962016:ran6cl84p9g</link>
+    <description>Search on domain Google.com and Google.ru</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

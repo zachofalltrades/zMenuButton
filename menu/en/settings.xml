@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Metro (v.22)</title>
+    <link>chrome://make-metro</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Sign in to Chrome (v.20)</title>
+    <link>chrome://signin</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Print</title>
+    <link>chrome://print</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Feedback</title>
+    <link>chrome://feedback/#0</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Chrome - About</title>
+    <link>chrome://chrome</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Frame - History</title>
+    <link>chrome://history-frame</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Frame - Extensions</title>
+    <link>chrome://extensions-frame</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Frame - Settings</title>
+    <link>chrome://settings-frame</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Frame - About</title>
+    <link>chrome://help-frame</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Uber-frame</title>
+    <link>chrome://uber-frame</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>chrome_pages.xml</link>
+  </item>
+</menu>

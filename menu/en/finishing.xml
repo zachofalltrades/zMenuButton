@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Autoupdating *)</title>
+    <link>http://code.google.com/chrome/extensions/autoupdate.html</link>
+    <description>Update extensions automatically.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Hosting</title>
+    <link>http://code.google.com/chrome/extensions/hosting.html</link>
+    <description>Host extensions on Google servers or your own.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Other Deployment Options</title>
+    <link>http://code.google.com/chrome/extensions/external_extensions.html</link>
+    <description>Distribute extensions on your network or with other software.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Packaging *)</title>
+    <link>http://code.google.com/chrome/extensions/packaging.html</link>
+    <description>Create a .crx file so you can distribute your extension.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>guide.xml</link>
+  </item>
+</menu>

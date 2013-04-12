@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Bookmarks</title>
+    <link>http://code.google.com/chrome/extensions/bookmarks.html</link>
+    <description>Create, organize, and otherwise manipulate the user's bookmarks.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Cookies</title>
+    <link>http://code.google.com/chrome/extensions/cookies.html</link>
+    <description>Explore and modify the browser's cookie system.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Developer Tools</title>
+    <link>http://code.google.com/chrome/extensions/devtools.html</link>
+    <description>Add features to Chrome Developer Tools.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Events</title>
+    <link>http://code.google.com/chrome/extensions/events.html</link>
+    <description>Detect when something interesting happens.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>History</title>
+    <link>http://code.google.com/chrome/extensions/history.html</link>
+    <description>Interact with the browser's record of visited pages.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Management</title>
+    <link>http://code.google.com/chrome/extensions/management.html</link>
+    <description>Provides ways to manage the list of extensions/apps that are installed and running. </description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Tabs</title>
+    <link>http://code.google.com/chrome/extensions/tabs.html</link>
+    <description>Create, modify, and rearrange tabs in the browser.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Windows</title>
+    <link>http://code.google.com/chrome/extensions/windows.html</link>
+    <description>Create, modify, and rearrange windows in the browser.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>guide.xml</link>
+  </item>
+</menu>

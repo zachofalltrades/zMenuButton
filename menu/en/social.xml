@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>linkedin.png</icon>
+    <title>LinkedIn</title>
+    <link>http://linkedin.com/</link>
+    <description>Social Networking for professional communities</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>facebook.png</icon>
+    <title>facebook</title>
+    <link>http://www.facebook.com/</link>
+    <description>Social Networking for the masses</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>twitter.png</icon>
+    <title>Twitter</title>
+    <link>http://twitter.com/</link>
+    <description>Social Networking for people with ADHD</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>googleplus.png</icon>
+    <title>Google+</title>
+    <link>https://plus.google.com</link>
+    <description>Social Networking done right, but nobody cares</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>latitude.png</icon>
+    <title>Latitude</title>
+    <link>https://www.google.com/latitude</link>
+    <description>Social Networking for stalkers</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>talk.png</icon>
+    <title>Talk</title>
+    <link>http://www.google.com/talk</link>
+    <description>Social Networking for chatty people</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>groups.png</icon>
+    <title>Groups</title>
+    <link>http://groups.google.com</link>
+    <description>Social Networking for people with shared interests</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

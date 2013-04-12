@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>HTTP Cache</title>
+    <link>chrome://view-http-cache</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Cache</title>
+    <link>chrome://cache</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Profiler</title>
+    <link>chrome://profiler</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Instant Preferences (v.22)</title>
+    <link>chrome://instant</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Autocomplite  Action Predictor (v.21)</title>
+    <link>chrome://predictors</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Network Action Predictor (v.19)</title>
+    <link>chrome://network-action-predictor</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Task Manager</title>
+    <link>chrome://tasks</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Policies</title>
+    <link>chrome://policy</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Stats</title>
+    <link>chrome://stats</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Stats as of last page load</title>
+    <link>chrome://tcmalloc</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Tracing</title>
+    <link>chrome://tracing</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Crashes</title>
+    <link>chrome://crashes</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>chrome_pages.xml</link>
+  </item>
+</menu>

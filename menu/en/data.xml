@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>About Flash</title>
+    <link>chrome://flash</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>About DNS</title>
+    <link>chrome://dns</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>About memory </title>
+    <link>chrome://memory-redirect/</link>
+    <description>chrome://memory-redirect/ or chrome://memory/</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>About Histograms</title>
+    <link>chrome://histograms</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Media Internals</title>
+    <link>chrome://media-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Network Internals</title>
+    <link>chrome://net-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>AppCache Internals</title>
+    <link>chrome://appcache-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Blob Internals</title>
+    <link>chrome://blob-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>GPU Internals</title>
+    <link>chrome://gpu-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Quota Internals</title>
+    <link>chrome://quota-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Sync Internals</title>
+    <link>chrome://sync-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Suggestions Internals (v.20)</title>
+    <link>chrome://suggestions-internals</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>chrome_pages.xml</link>
+  </item>
+</menu>

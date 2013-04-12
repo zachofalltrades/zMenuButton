@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Google Chrome</title>
+    <link>chrome.xml</link>
+    <description>A browser built for speed, simplicity and security</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>igoogle.png</icon>
+    <title>iGoogle</title>
+    <link>http://www.google.com/ig</link>
+    <description>Add to your home page news, weather, games, and other information</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>customsearch.png</icon>
+    <title>Custom Search Engine</title>
+    <link>http://www.google.com/cse/</link>
+    <description>Allows you to create on your website custom search engine based on Goolge technology.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>video.png</icon>
+    <title>Video</title>
+    <link>http://www.google.com/videohp</link>
+    <description>Movie clips and other video</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>images.png</icon>
+    <title>Image Search</title>
+    <link>http://images.google.com</link>
+    <description>Search for images on the web</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>maps.png</icon>
+    <title>Maps</title>
+    <link>http://maps.google.ru</link>
+    <description>Detailed maps and driving directions</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>books.png</icon>
+    <title>Books</title>
+    <link>http://books.google.com</link>
+    <description>Search for books in the virtual library</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>news.png</icon>
+    <title>News</title>
+    <link>http://news.google.com</link>
+    <description>Search thousands of news stories</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>search.png</icon>
+    <title>Web Search</title>
+    <link>http://www.google.com/webhp</link>
+    <description>Search billions of web pages</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>blogs.png</icon>
+    <title>Blog Search</title>
+    <link>http://www.google.com/blogsearch</link>
+    <description>Find blogs on your favorite topics</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>scholar.png</icon>
+    <title>Scholar</title>
+    <link>http://scholar.google.com/schhp</link>
+    <description>Search scholarly papers</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>features.png</icon>
+    <title>Search Features</title>
+    <link>http://www.google.com/intl/en/help/features.html</link>
+    <description>Improve Your Search Experience</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>alerts.png</icon>
+    <title>Alerts</title>
+    <link>http://www.google.com/alerts</link>
+    <description>Get email updates on the topics of your choice</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

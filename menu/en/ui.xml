@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Browser Actions</title>
+    <link>http://code.google.com/chrome/extensions/browserAction.html</link>
+    <description>Add icons to the toolbar (extensions only).</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Desktop Notifications</title>
+    <link>http://code.google.com/chrome/extensions/notifications.html</link>
+    <description>Notify users of important events.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Omnibox</title>
+    <link>http://code.google.com/chrome/extensions/omnibox.html</link>
+    <description>Add a keyword to the address bar.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Options Pages</title>
+    <link>http://code.google.com/chrome/extensions/options.html</link>
+    <description>Let users customize your extension.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Override Pages</title>
+    <link>http://code.google.com/chrome/extensions/override.html</link>
+    <description>Implement your own version of standard browser pages such as the New Tab page.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Page Actions</title>
+    <link>http://code.google.com/chrome/extensions/pageAction.html</link>
+    <description>Add temporary icons inside the address bar (extensions only).</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Themes</title>
+    <link>http://code.google.com/chrome/extensions/themes.html</link>
+    <description>Change the overall appearance of the browser.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>guide.xml</link>
+  </item>
+</menu>

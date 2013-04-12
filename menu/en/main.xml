@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <header>
+    <icon>favicon.ico</icon>
+    <title>ZachOfAllTrades</title>
+    <link>http://zachofalltrades.net/</link>
+    <description>Zach's Menu</description>
+    <autor>Zach Shelton</autor>
+  </header>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>ZachOfAllTrades</title>
+    <link>http://zachofalltrades.net/</link>
+    <description>ZachOfAllTrades</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>sharethis.png</icon>
+    <title>Share...</title>
+    <link>share.xml</link>
+    <description>Send information about the current page to network resources.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Social</title>
+    <link>social.xml</link>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>search.png</icon>
+    <title>Search</title>
+    <link>search.xml</link>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>chrome.png</icon>
+    <title>Chrome Pages</title>
+    <link>chrome_pages.xml</link>
+  </item>
+<!--
+  <item>
+    <type>menu</type>
+    <icon>google.png</icon>
+    <title>Google Services</title>
+    <link>google_services.xml</link>
+  </item>
+-->
+  <item>
+    <type>menu</type>
+    <icon>labs.png</icon>
+    <title>Chrome Extension Docs</title>
+    <link>guide.xml</link>
+  </item>
+</menu>

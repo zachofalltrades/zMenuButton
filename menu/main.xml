@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <header>
+    <lang>en</lang>
+    <startmenu>main.xml</startmenu>
+    <contextmenu>context.xml</contextmenu>
+  </header>
+</menu>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>bookmarks.png</icon>
+    <title>Bookmark Manager</title>
+    <link>chrome://bookmarks</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>downloads.png</icon>
+    <title>Downloads</title>
+    <link>chrome://downloads</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>settings.png</icon>
+    <title>Settings</title>
+    <link>chrome://settings</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>history.png</icon>
+    <title>History</title>
+    <link>chrome://history</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>history.png</icon>
+    <title>Sessions</title>
+    <link>chrome://sessions</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>plugins.png</icon>
+    <title> Extensions</title>
+    <link>chrome://extensions</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>plugins.png</icon>
+    <title>Plug-ins</title>
+    <link>chrome://plugins</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>conflicts.png</icon>
+    <title>Modules</title>
+    <link>chrome://conflicts</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>flags.png</icon>
+    <title>Experiment Flags</title>
+    <link>chrome://flags</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Settings</title>
+    <link>settings.xml</link>
+    <description>Chrome setting pages</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>System data</title>
+    <link>data.xml</link>
+    <description>Pages with Chrome system information</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Booting the system</title>
+    <link>tasks.xml</link>
+    <description>Processes and tasks performed by Chrome</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Testing</title>
+    <link>testing.xml</link>
+    <description>Service page for the testing of Chrome</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>General info</title>
+    <link>info.xml</link>
+    <description>General Information</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>"This webpage is not available"</title>
+    <link>unavailable.xml</link>
+    <description>Try. Maybe You will be able? ;)</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

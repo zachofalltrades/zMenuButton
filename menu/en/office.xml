@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>drive.png</icon>
+    <title>Google Drive</title>
+    <link>https://drive.google.com</link>
+    <description>Store your files online - share them with friends and colleagues!</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>gmail.png</icon>
+    <title>Gmail</title>
+    <link>https://mail.google.com</link>
+    <description>Webmail with search and spam protection</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>docs.png</icon>
+    <title>Docs</title>
+    <link>http://docs.google.com</link>
+    <description>Create and share your online documents, presentations and spreadsheets</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>calendar.png</icon>
+    <title>Calendar</title>
+    <link>http://www.google.com/calendar</link>
+    <description>Organize your schedule and inform your friends</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>translate.png</icon>
+    <title>Translate</title>
+    <link>http://translate.google.com</link>
+    <description>Instantly translate text, web pages, and files between over 50 languages</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>feedburner.png</icon>
+    <title>My Feeds</title>
+    <link>http://feedburner.google.com</link>
+    <description>Feedburner - service of RSS management.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>sites.png</icon>
+    <title>Google Sites</title>
+    <link>http://sites.google.com/</link>
+    <description>A simple way to create free websites</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>code.png</icon>
+    <title>Code</title>
+    <link>http://code.google.com</link>
+    <description>Developer tools, APIs and resources</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>answers.png</icon>
+    <title>Questions and Answers</title>
+    <link>http://answers.google.com/</link>
+    <description>Google Answers is no longer accepting questions.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>mobile.png</icon>
+    <title>Mobile</title>
+    <link>http://www.google.com/mobile</link>
+    <description>Get Google products on your mobile phone</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>mobilemaps.png</icon>
+    <title>Maps for mobile</title>
+    <link>http://www.google.com/mobile/maps</link>
+    <description>Look map and plan a route on your mobile phone</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

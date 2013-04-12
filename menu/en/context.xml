@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>share</type>
+    <title>Validate on W3C</title>
+    <link>http://validator.w3.org/check?uri=%url;ss=1;outline=1</link>
+  </item>
+  <item>
+    <type>share</type>
+    <title>View page source</title>
+    <link>view-source:%url</link>
+  </item>
+  <item>
+    <type>share</type>
+    <title>Web-page icon</title>
+    <link>chrome://favicon/%url</link>
+  </item>
+  <item>
+    <type>search</type>
+    <title>Search on Google code</title>
+    <link>002967670403910741006:61_cvzfqtno</link>
+  </item>
+  <item>
+    <type>search</type>
+    <title>Search on Google services</title>
+    <link>007730902333140962016:ran6cl84p9g</link>
+  </item>
+</menu>

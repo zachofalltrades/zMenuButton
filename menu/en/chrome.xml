@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>chrome.png</icon>
+    <title>Google Chrome</title>
+    <link>http://www.google.ru/chrome</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>canary.png</icon>
+    <title>Google Chrome Canary</title>
+    <link>http://tools.google.com/dlpage/chromesxs</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>chromium.png</icon>
+    <title>Chromium</title>
+    <link>http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html</link>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>RockMelt</title>
+    <link>http://www.rockmelt.com/</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Yandex.Internet</title>
+    <link>http://browser.yandex.ru/</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Internet from Mail.ru</title>
+    <link>http://internet.mail.ru/</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Rambler Nichrome</title>
+    <link>http://nichrome.rambler.ru/</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Comodo Dragon</title>
+    <link>http://www.comodo.com/home/browsers-toolbars/browser.php</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>CoolNovo</title>
+    <link>http://www.coolnovo.com/?hl=ru</link>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>SRWare Iron</title>
+    <link>http://www.srware.net/en/software_srware_iron_download.php</link>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>search.xml</link>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

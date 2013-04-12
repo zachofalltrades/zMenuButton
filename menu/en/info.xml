@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>List of Chrome URLs</title>
+    <link>chrome://chrome-urls</link>
+    <description>chrome://about or chrome://chrome-urls</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>About Version</title>
+    <link>chrome://version</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Credits</title>
+    <link>chrome://credits</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Google Chrome Terms of Service</title>
+    <link>chrome://terms</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>New Tab</title>
+    <link>chrome://newtab</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>URL constants</title>
+    <link>http://src.chromium.org/svn/trunk/src/chrome/common/url_constants.cc</link>
+    <description>http://src.chromium.org/.../url_constants.cc</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>chrome_pages.xml</link>
+  </item>
+</menu>

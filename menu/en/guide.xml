@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <header>
+    <icon>labs.png</icon>
+    <title>Google Chrome Extensions</title>
+    <link>http://code.google.com/chrome/extensions/index.html</link>
+    <description>When you want always have on hand Google Chrome Extensions Developer's Guide...</description>
+  </header>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Getting Started (Hello, World!)</title>
+    <link>http://developer.chrome.com/extensions/getstarted.html</link>
+    <description>This tutorial walks you through creating a simple extension.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Overview</title>
+    <link>http://developer.chrome.com/extensions/overview.html</link>
+    <description>Once you've finished this page and the Getting Started tutorial, you'll be all set to start writing extensions and packaged apps.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>What's New in Extensions?</title>
+    <link>http://developer.chrome.com/extensions/whats_new.html</link>
+    <description>This page lists the API and manifest changes made in recent releases.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Developer's Guide</title>
+    <link>http://code.google.com/chrome/extensions/devguide.html</link>
+    <description>Content of Google Chrome Extensions Developer's Guide.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Browser UI</title>
+    <link>ui.xml</link>
+    <description>Changing the Google Chrome.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Browser Interaction</title>
+    <link>interaction.xml</link>
+    <description>Interacting with Google Chrome in other ways.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+   <title>Implementation</title>
+    <link>implementation.xml</link>
+    <description>Implementing the innards of your extension.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+   <title>Finishing</title>
+    <link>finishing.xml</link>
+    <description>Finishing and distributing your extension.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+   <title>Tutorials</title>
+    <link>tutorials.xml</link>
+    <description>Follow these to get started developing Google Chrome Extensions.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+   <title>Reference</title>
+    <link>reference.xml</link>
+    <description>Reference.</description>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>More</title>
+    <link>more.xml</link>
+    <description>More information about extensions.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>sample.png</icon>
+    <title>Samples</title>
+    <link>http://code.google.com/chrome/extensions/samples.html</link>
+    <description>Download source.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>menu</type>
+    <icon>default</icon>
+    <title>Questions and News</title>
+    <link>news.xml</link>
+    <description>Questions and News about the development Google Chrome extensions.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>search</type>
+    <title>Search on Google Code and Google Developers.</title>
+    <link>002967670403910741006:61_cvzfqtno</link>
+    <description>Search on code.google.com and developer.chrome.com.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+  </item>
+</menu>

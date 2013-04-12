@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Inspect with Chrome Developer Tools (v.20)</title>
+    <link>chrome://inspect</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Kill</title>
+    <link>chrome://kill</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Hang</title>
+    <link>chrome://hang</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Shorthang</title>
+    <link>chrome://shorthang</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Crash</title>
+    <link>chrome://crash</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>GPU Clean</title>
+    <link>chrome://gpuclean</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>GPU Hang</title>
+    <link>chrome://gpuhang</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>GPU Crash</title>
+    <link>chrome://gpucrash</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Edit Search Engine</title>
+    <link>chrome://editsearchengine</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Input Window Dialog</title>
+    <link>chrome://input-window-dialog/</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>Omnibox Debug Page</title>
+    <link>chrome://omnibox</link>
+    <description>link</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>extension-icon (96x96)</title>
+    <link>chrome://extension-icon</link>
+    <description>Built-in application icon:
+chrome://extension-icon/&lt;pathname&gt;</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>favicon (16x16)</title>
+    <link>chrome://favicon</link>
+    <description>Built-in web-page icon:
+chrome://favicon/&lt;pathname&gt;</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>favicon</icon>
+    <title>session-favicon (16x16) (v.21)</title>
+    <link>chrome://session-favicon</link>
+    <description>Built-in session icon:
+chrome://session-favicon/&lt;pathname&gt;</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>chrome_pages.xml</link>
+  </item>
+</menu>

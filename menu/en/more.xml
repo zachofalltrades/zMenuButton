@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Chrome Web Store</title>
+    <link>https://developers.google.com/chrome/web-store/docs/</link>
+    <description>The Chrome Web Store lets you publish apps where Google Chrome users can easily find them.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Hosted Apps</title>
+    <link>http://developer.chrome.com/extensions/tut_debugging.html</link>
+    <description>Read this page to learn how to create and load a hosted app - a regular web app, plus some metadata.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Themes</title>
+    <link>http://developer.chrome.com/extensions/themes.html</link>
+    <description>A theme is a special kind of extension that changes the way the browser looks.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>guide.xml</link>
+  </item>
+</menu>

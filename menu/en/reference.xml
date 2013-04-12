@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Manifest Files</title>
+    <link>http://code.google.com/chrome/extensions/manifest.html</link>
+    <description>Manifest Files Formats.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Patterns</title>
+    <link>http://code.google.com/chrome/extensions/match_patterns.html</link>
+    <description>Match Patterns.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Permissions</title>
+    <link>http://code.google.com/chrome/extensions/permission_warnings.html</link>
+    <description>Permission Warnings.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>chrome.* APIs</title>
+    <link>http://code.google.com/chrome/extensions/api_index.html</link>
+    <description>Google Chrome provides APIs such as chrome.bookmarks and chrome.tab so that extensions can interact with the browser.</description>
+  </item>
+  <item>
+    <type>item</type>
+    <icon>labs.png</icon>
+    <title>Other APIs</title>
+    <link>http://code.google.com/chrome/extensions/api_other.html</link>
+    <description>In addition to the chrome.* APIs, extensions can use all the APIs that the browser provides to web pages and apps.</description>
+  </item>
+  <item>
+    <type>separator</type>
+  </item>
+  <item>
+    <type>back</type>
+    <icon>default</icon>
+    <link>guide.xml</link>
+  </item>
+</menu>
